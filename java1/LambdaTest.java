@@ -1,4 +1,3 @@
-package com.atguigu.java1;
 
 import org.junit.Test;
 import org.w3c.dom.ls.LSOutput;
